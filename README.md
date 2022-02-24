@@ -11,7 +11,6 @@ MediaPipe is a cross-platform ML solution for live and streaming media that was 
 ![image](https://1.bp.blogspot.com/-JDQHZZxbu8k/X5s7TInMUOI/AAAAAAAAGv4/M3l9IpoBh2w515cN6TUCIC0kim2sdm3twCLcBGAsYHQ/s16000/image8%2B%25281%2529.jpg)
 
 
-For a walkthrough of the code, checkout [My Blog](https://www.stackfive.io/blogs) also checkout [MediaPipe](https://google.github.io/mediapipe/solutions/selfie_segmentation#javascript-solution-api)
-
+For a walkthrough of the code, checkout [My Blog](https://www.stackfive.io/blogs)
 If you have any questions, feel free to reach out [@_tkoriginal](https://twitter.com/_tkoriginal) on twitter
 
