@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import { SelfieSegmentation } from "@mediapipe/selfie_segmentation";
-import "./App.css";
+// import "./App.css";
 
 function App() {
   const inputVideoRef = useRef();
@@ -10,7 +10,7 @@ function App() {
   useEffect(() => {
     contextRef.current = canvasRef.current.getContext("2d");
     const constraints = {
-      video: { width: { min: 1280 }, height: { min: 720 } },
+      video: true,
     };
     navigator.mediaDevices.getUserMedia(constraints).then((stream) => {
       inputVideoRef.current.srcObject = stream;
